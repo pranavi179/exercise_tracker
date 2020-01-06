@@ -1,3 +1,11 @@
+## Exercise tracker
+used MERN stack
+mongodb atlas
+ connected the db through Mongodb Atlas 
+ the run the server use --- nodemon server or node server.js in backend folder
+ 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
