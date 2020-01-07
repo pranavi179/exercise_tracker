@@ -4,7 +4,14 @@ mongodb atlas
  connected the db through Mongodb Atlas 
  the run the server use --- nodemon server or node server.js in backend folder
  
-
+1. Creating Database and connect
+	<br />
+used MongoDb Atlas,mongoose,express,insomnia . Two models were created Exercise and user, to create database schemas by mongoose .
+And added the Api endpoints routes ,so server can perform Crud operation. .insomnia is used to test the server
+	create clusters in Mongodb Atlas	
+	to server -- nodemon server
+	 
+2.FrontEnd through React 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
