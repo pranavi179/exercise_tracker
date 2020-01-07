@@ -10,11 +10,15 @@ import Navbar from "./components/navbar.component";
 function App() {
   return (
     <Router>
-      {/* <Navbar /> */}
-      <Route path="/" exact component={ExerciseList} />
-      <Route path="/edit/:id" component={EditExercise} />
-      <Route path="/create" component={CreateExercise} />
-      <Route path="/user" component={CreateUser} />
+      <div className="container">
+        <Navbar />
+        <hr />
+        <br />
+        <Route path="/" exact component={ExerciseList} />
+        <Route path="/edit/:id" component={EditExercise} />
+        <Route path="/create" component={CreateExercise} />
+        <Route path="/user" component={CreateUser} />
+      </div>
     </Router>
   );
 }
