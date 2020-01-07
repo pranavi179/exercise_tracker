@@ -7,9 +7,16 @@ router.route("/").get((req, res) => {
     .catch(err => res.status(400).json("Error:" + err));
 });
 router.route("/add").post((req, res) => {
-  const exercisename = req.body.exercisename;
-  const newExercise = new exercisename({ exercisename });
-
+  const username = req.body.username;
+  const description = req.body.description;
+  const duration = Number(req.body.duration);
+  const date = Date(req.body.date);
+  const newExercise = new exercise({
+    username,
+    description,
+    duration,
+    date
+  });
   newExercise
     .save()
     .then(() => res.json("Exercise added"))
