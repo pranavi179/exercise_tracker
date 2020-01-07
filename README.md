@@ -18,6 +18,28 @@ And added the Api endpoints routes ,so server can perform Crud operation. .insom
 	to run -- npm start
 	install axios , datepicker , react-router-dom, bootstrap , react-datepicker
  
+![homepage](https://github.com/pranavi179/exercise_tracker/blob/master/images/homepage.png)
+
+
+![selectusername](https://github.com/pranavi179/exercise_tracker/blob/master/images/selecteusername.png)
+
+
+![exercise](https://github.com/pranavi179/exercise_tracker/blob/master/images/exercise.png)
+
+
+![edited](https://github.com/pranavi179/exercise_tracker/blob/master/images/edited.png)
+
+
+![db](https://github.com/pranavi179/exercise_tracker/blob/master/images/db.png)
+
+
+![db1](https://github.com/pranavi179/exercise_tracker/blob/master/images/db1.png)
+
+
+![screenshot](https://github.com/pranavi179/exercise_tracker/blob/master/images/Screenshot%20from%202020-01-08%2004-55-46.png)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
