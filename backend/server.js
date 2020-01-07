@@ -11,7 +11,7 @@ app.use(express.json());
 const exercisesRouter = require("./routes/exercises");
 const userRouter = require("./routes/users");
 
-app.use("/exerci5ses", exercisesRouter);
+app.use("/exercises", exercisesRouter);
 app.use("/users", userRouter);
 
 const uri = process.env.ATLAS_URI;
