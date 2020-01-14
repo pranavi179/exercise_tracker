@@ -18,25 +18,25 @@ And added the Api endpoints routes ,so server can perform Crud operation. .insom
 	to run -- npm start
 	install axios , datepicker , react-router-dom, bootstrap , react-datepicker
 
- ## #homepage 
+ ### Homepage 
 ![homepage](https://github.com/pranavi179/exercise_tracker/blob/master/images/homepage.png)
 
- ###Select Username
+ ### Select Username
 ![selectusername](https://github.com/pranavi179/exercise_tracker/blob/master/images/selecteusername.png)
 
  ### Exercise
 ![exercise](https://github.com/pranavi179/exercise_tracker/blob/master/images/exercise.png)
 
-	###Edited exercise
+### Edited exercise
 ![edited](https://github.com/pranavi179/exercise_tracker/blob/master/images/edited.png)
 
-	### Database (mongo Db )
+### Database (mongo Db )
 ![db](https://github.com/pranavi179/exercise_tracker/blob/master/images/db.png)
 
-	###Mongo Db Database
+### Mongo Db Database
 ![db1](https://github.com/pranavi179/exercise_tracker/blob/master/images/db1.png)
 
-	# Create User
+#### Create User
 ![screenshot](https://github.com/pranavi179/exercise_tracker/blob/master/images/Screenshot%20from%202020-01-08%2004-55-46.png)
 
 
