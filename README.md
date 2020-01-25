@@ -1,7 +1,15 @@
 ## Exercise tracker
+
+A web application which tracks exercises. User can Create ,edit, delete the exercise
+
+
 used MERN stack
+
 mongodb atlas
+
  connected the db through Mongodb Atlas 
+ 
+ 
  the run the server use --- nodemon server or node server.js in backend folder
  
 1. Creating Database and connect
